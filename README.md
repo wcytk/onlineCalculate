@@ -17,4 +17,4 @@
 ## 使用说明
 需要配置自己的数据库名和密码,配置在 src/com/www/dao/connect 内
 
-***[我的博客](https://blog.wcytk.com)***
+***[我的博客](https://blog.wcytk.com/articles/8)***
